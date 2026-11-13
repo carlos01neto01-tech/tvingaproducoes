@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0a0c13" />
+  <meta name="description" content="TV Ingá Studio — protótipo de central de produção audiovisual" />
+  <title>TV Ingá Studio | Central de produção</title>
+  <link rel="stylesheet" href="./assets/style.css" />
+  <script src="./assets/app.js" defer></script>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand"><div class="brand-icon">TV<span>•</span></div><div><strong>INGÁ <em>STUDIO</em></strong><small>Plataforma editorial</small></div></div>
+      <div class="workspace-label">WORKSPACE <span class="tiny-pill">BETA 0.1</span></div>
+      <nav class="nav" aria-label="Navegação principal">
+        <button data-nav="dashboard" class="nav-btn active"><span class="nav-symbol">▦</span> Visão geral</button>
+        <button data-nav="programs" class="nav-btn"><span class="nav-symbol">▤</span> Programas <span class="nav-count" id="navCount">17</span></button>
+        <button data-nav="studio" class="nav-btn"><span class="nav-symbol">✂</span> Novo projeto</button>
+        <button data-nav="templates" class="nav-btn"><span class="nav-symbol">◈</span> Espelhos visuais</button>
+        <button data-nav="queue" class="nav-btn"><span class="nav-symbol">▧</span> Fila editorial</button>
+      </nav>
+      <div class="workspace-label second-label">SISTEMA</div>
+      <nav class="nav"><button data-nav="settings" class="nav-btn"><span class="nav-symbol">⚙</span> Configurações</button></nav>
+      <div class="sidebar-footer"><div class="service-dot" id="sidebarStatus"></div><div><strong id="sidebarStatusText">Painel de demonstração</strong><small id="sidebarStatusDetail">Backend ainda não conectado</small></div></div>
+    </aside>
+    <div class="main-wrap">
+      <header class="topbar"><div class="mobile-brand">INGÁ <span>STUDIO</span></div><div class="breadcrumbs">Workspace <span>/</span> <strong id="crumb">Visão geral</strong></div><div class="top-actions"><span class="top-label">AMBIENTE DE TESTES</span><button class="btn btn-primary btn-sm" data-nav="studio">＋ Nova produção</button></div></header>
+      <main id="app" class="content" aria-live="polite"></main>
+      <footer class="footer"><span>TV Ingá Studio · Protótipo de validação</span><span>Dados locais do navegador · Sem publicação automática</span></footer>
+    </div>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <input id="videoFile" type="file" accept="video/mp4,video/quicktime,video/webm,video/x-matroska" hidden />
+</body>
+</html>

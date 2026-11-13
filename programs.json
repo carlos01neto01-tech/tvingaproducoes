@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "slug": "talk-com-a-daya",
+    "title": "Talk com a Daya",
+    "category": "Entrevistas",
+    "description": "Conexões, histórias e convidados",
+    "url": "https://tvinga.com.br/title/talk-com-a-daya/",
+    "color": "#806BEE",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "slug": "pod-consumir",
+    "title": "Pod Consumir",
+    "category": "Podcast",
+    "description": "Conversas e informação",
+    "url": "https://tvinga.com.br/title/pod-consumir/",
+    "color": "#EAA765",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "slug": "fama-mulher",
+    "title": "Fama & Mulher",
+    "category": "Comportamento",
+    "description": "Histórias e perspectivas",
+    "url": "https://tvinga.com.br/title/fama-mulher/",
+    "color": "#E67DBD",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "slug": "podju",
+    "title": "PodJu",
+    "category": "Podcast",
+    "description": "Conversas e entrevistas",
+    "url": "https://tvinga.com.br/title/podju/",
+    "color": "#62B5CD",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "slug": "justica-da-saude",
+    "title": "Justiça da Saúde",
+    "category": "Saúde",
+    "description": "Direitos e saúde",
+    "url": "https://tvinga.com.br/title/justica-da-saude/",
+    "color": "#4EC89D",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "slug": "bom-dia-maringa",
+    "title": "Bom Dia Maringá",
+    "category": "Jornalismo",
+    "description": "Notícias e atualidades",
+    "url": "https://tvinga.com.br/title/bom-dia-maringa/",
+    "color": "#6F9EFF",
+    "verified": true
+  },
+  {
+    "id": 7,
+    "slug": "prestando-contas",
+    "title": "Prestando Contas",
+    "category": "Entrevistas",
+    "description": "Entrevistas e prestação de contas",
+    "url": "https://tvinga.com.br/title/prestando-contas/",
+    "color": "#F5B55B",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "slug": "tv-inga-esporte",
+    "title": "TV Ingá Esporte",
+    "category": "Esportes",
+    "description": "Notícias e análises esportivas",
+    "url": "https://tvinga.com.br/title/tv-inga-esporte/",
+    "color": "#EB707A",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "slug": "em-foco-com-nanda-tosiro",
+    "title": "Em Foco com Nanda Tosiro",
+    "category": "Entrevistas",
+    "description": "Pautas em destaque",
+    "url": "https://tvinga.com.br/title/em-foco-com-nanda-tosiro/",
+    "color": "#9F9CF6",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "slug": "destravando-cadeados",
+    "title": "Destravando Cadeados",
+    "category": "Comportamento",
+    "description": "Ideias e transformação",
+    "url": "https://tvinga.com.br/title/destravando-cadeados/",
+    "color": "#6EC8B4",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "slug": "midia-saude-na-tv",
+    "title": "Mídia Saúde na TV",
+    "category": "Saúde",
+    "description": "Informações sobre saúde",
+    "url": "https://tvinga.com.br/title/midia-saude-na-tv/",
+    "color": "#56C7D9",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "slug": "voto-distrital",
+    "title": "Voto Distrital",
+    "category": "Política",
+    "description": "Debates sobre cidadania",
+    "url": "https://tvinga.com.br/title/voto-distrital/",
+    "color": "#E4B061",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "slug": "impacto-ambiental",
+    "title": "Impacto Ambiental",
+    "category": "Meio ambiente",
+    "description": "Sustentabilidade",
+    "url": "https://tvinga.com.br/title/impacto-ambiental/",
+    "color": "#67C895",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "slug": "mentality-cast",
+    "title": "Mentality Cast",
+    "category": "Podcast",
+    "description": "Entrevistas e reflexões",
+    "url": "https://tvinga.com.br/title/mentality-cast/",
+    "color": "#B88DFF",
+    "verified": true
+  },
+  {
+    "id": 15,
+    "slug": "movimentos-politicas-sindical-social",
+    "title": "Movimentos: Política Sindical & Social",
+    "category": "Sociedade",
+    "description": "Trabalho, política e sociedade",
+    "url": "https://tvinga.com.br/title/movimentos-politicas-sindical-social/",
+    "color": "#F5A0A7",
+    "verified": true
+  },
+  {
+    "id": 16,
+    "slug": "edilson-correia-em-comunidade-2",
+    "title": "Edilson Correia em Comunidade",
+    "category": "Comunidade",
+    "description": "Pautas da comunidade",
+    "url": "https://tvinga.com.br/title/edilson-correia-em-comunidade-2/",
+    "color": "#8BA6E1",
+    "verified": false
+  },
+  {
+    "id": 17,
+    "slug": "conexao-energetica",
+    "title": "Conexão Energética",
+    "category": "Entrevistas",
+    "description": "Conversas temáticas",
+    "url": "https://tvinga.com.br/title/conexao-energetica/",
+    "color": "#EAA863",
+    "verified": false
+  }
+]
